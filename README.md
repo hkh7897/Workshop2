@@ -1,7 +1,7 @@
 # Workshop (devloping food text classification system )
 خلود حسن النفيعي 
 440020617 - 
-373 -
+373 
 
 I follow the below steps to run the core System of the food text classification system on input from user .
 
