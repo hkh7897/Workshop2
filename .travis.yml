@@ -9,3 +9,5 @@ node_js:
  
 script:
   - npm test
+  
+   script: ./scripts/run-tests.sh
