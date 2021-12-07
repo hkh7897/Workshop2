@@ -5,11 +5,12 @@ sudo: false
 language: node_js
  
 node_js:
-  - node
-  
-install: 
-  - npm ci 
+  - node 
+ 
  
 script:
-  - npm run test
+  - npm install
+ 
+notification:
+  email: false
  
