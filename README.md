@@ -95,21 +95,22 @@ i modify the package.json file in repository by exchange this part.<br>
 ____
 
 ### Releases
- first release 
+ first release  <br>
 The first release with tag V0.0.0 is created with the same code we have run it.
 _______________________________________________________________________________
-second release 
-update the GUI
-(p 5.png)<br><br>
-The second release with tag V0.1.0 is created with the new code i update the GUI to have tow additional feature.
-1- clear button to clear the entered text and let the user able to change/update
-the text before sending it the server.
-(p 1.png)<br><br>
-(p 2.png)<br><br>
+second release  <br>
+update the GUI <br>
+![in obunto](p5.png)<br><br>
+The second release with tag V0.1.0 is created with the new code i update the GUI to have tow additional feature. <br>
+1- clear button to clear the entered text and let the user able to change/update <br>
+the text before sending it the server.<br>
+![before press clear](p%201.png)<br><br>
+![after press clear](p2.png)<br><br>
 
-2- Submit button shall be responsible to wrap the text and send it to the server 
-(p 3.png)<br><br>
-(p 4.png)<br><br>
+2- Submit button shall be responsible to wrap the text and send it to the server <br>
+![try with backed potetoes](p3.png)<br><br>
+![try with reice](p4.png)<br><br>
+
 ---
 
 
