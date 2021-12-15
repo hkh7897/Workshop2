@@ -87,8 +87,8 @@ step :<br>
 3- puch travic.yml file in repository <br>
 ____
 issue :<br>
-it was show erro for every branch and dose not accept the changes and build.<br>
-i modify the package.json file in repository by exchange this part.<br>
+it was show error for every branch and dose not accept the changes and build.<br>
+the solution i modify the package.json file in repository by exchange this part.<br>
  "test": "echo \"Error: no test specified\" && exit 1 <br>
  with <br>
    "test": "echo \"No test specified\"" <br>
