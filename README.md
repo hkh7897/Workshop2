@@ -81,6 +81,25 @@ The result on HTML page appears "success" and in the terminal illustrates all po
 The first release with tag V0.0.0 is created with the same code we have run it. An additional release will be in task2.
 
 ---
+### travis integration 
+https://app.travis-ci.com/hkh7897/Workshop2.svg?branch=master
+
+____ 
+step :
+1- log in in travic ci with github account 
+2- active the repository [workshop2] in travic
+3- puch travic.yml file in repository 
+____
+issue :
+it was show erro for every branch and dose not accept the changes and build .
+i modify the package.json file in repository by exchange this part 
+ "test": "echo \"Error: no test specified\" && exit 1 
+ with
+   "test": "echo \"No test specified\""
+____
+
+
+ 
 
 ### Contributors 
 
