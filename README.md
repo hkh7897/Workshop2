@@ -1,5 +1,6 @@
 # Workshop (devloping food text classification system )
 # Web-Based Machine Learning System
+[![Build Status](https://app.travis-ci.com/hkh7897/Workshop2.svg?branch=master)](https://app.travis-ci.com/hkh7897/Workshop2)
 ---
 
 This is a project required for a Software Engineering2 course.<br>
@@ -78,7 +79,7 @@ The result on HTML page appears "success" and in the terminal illustrates all po
 
 ---
 ### travis ci integration 
-[![Build Status](https://app.travis-ci.com/hkh7897/Workshop2.svg?branch=master)](https://app.travis-ci.com/hkh7897/Workshop2)
+
 
 ____ 
 step :<br>
