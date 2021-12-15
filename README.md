@@ -104,12 +104,13 @@ update the GUI <br>
 
 The second release with tag V0.1.0 is created with the new code i update the GUI to have tow additional feature. <br><br>
 
-1- clear button to clear the entered text and let the user able to change/update <br>
+1- clear button to clear the entered text when user click the button <br>
 the text before sending it the server.<br>
 ![before press clear](p%201.png)<br><br>
 ![after press clear](p2.png)<br><br>
 
-2- Submit button shall be responsible to wrap the text and send it to the server <br>
+2- Submit button shall be responsible to wrap the text and send it to the server for further analysis After that once the text submitted to the server, the server would
+be able to analyze the text and label the text with the correct labels the results after being processed returned to the user’s page in the table the text  presented on the left and its associated tag is on the right <br>
 ![try with backed potetoes](p3.png)<br><br>
 ![try with reice](p4.png)<br><br>
 
