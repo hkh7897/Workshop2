@@ -11,8 +11,9 @@ It is done as teamwork by Alhanouf Almansour and Kholod Alnufaie and Raghad Albo
 - Development environment requirements
 - How to install
 - How to use
+- Travis ci intergration 
 - Releases
-- Contributors 
+- Contributors
 ---
 
 ### Project overview
@@ -76,11 +77,6 @@ The result on HTML page appears "success" and in the terminal illustrates all po
 ![terninal result](Picture4.png)
 
 ---
-
-### Releases
-The first release with tag V0.0.0 is created with the same code we have run it. An additional release will be in task2.
-
----
 ### travis integration 
 [![Build Status](https://app.travis-ci.com/hkh7897/Workshop2.svg?branch=master)](https://app.travis-ci.com/hkh7897/Workshop2)
 
@@ -97,6 +93,11 @@ i modify the package.json file in repository by exchange this part.<br>
  with <br>
    "test": "echo \"No test specified\"" <br>
 ____
+
+### Releases
+The first release with tag V0.0.0 is created with the same code we have run it. An additional release will be in task2.
+
+---
 
 
  
