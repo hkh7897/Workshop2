@@ -85,17 +85,17 @@ The first release with tag V0.0.0 is created with the same code we have run it. 
 [![Build Status](https://app.travis-ci.com/hkh7897/Workshop2.svg?branch=master)](https://app.travis-ci.com/hkh7897/Workshop2)
 
 ____ 
-step :
-1- log in in travic ci with github account 
-2- active the repository [workshop2] in travic
-3- puch travic.yml file in repository 
+step :<br>
+1- log in in travic ci with github account <br>
+2- active the repository [workshop2] in travic<br>
+3- puch travic.yml file in repository <br>
 ____
-issue :
-it was show erro for every branch and dose not accept the changes and build .
-i modify the package.json file in repository by exchange this part 
- "test": "echo \"Error: no test specified\" && exit 1 
- with
-   "test": "echo \"No test specified\""
+issue :<br>
+it was show erro for every branch and dose not accept the changes and build.<br>
+i modify the package.json file in repository by exchange this part.<br>
+ "test": "echo \"Error: no test specified\" && exit 1 <br>
+ with <br>
+   "test": "echo \"No test specified\"" <br>
 ____
 
 
@@ -103,4 +103,4 @@ ____
 
 ### Contributors 
 
-Made with [Kholod Alnufaie](https://github.com/hkh7897) and [Alhanouf Almansour](https://github.com/AlhanoufAlmans)
+Made with [raghad albosais](https://github.com/RaghadKhaled) and [Alhanouf Almansour](https://github.com/AlhanoufAlmans)
