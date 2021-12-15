@@ -77,7 +77,7 @@ The result on HTML page appears "success" and in the terminal illustrates all po
 ![terninal result](Picture4.png)
 
 ---
-### travis integration 
+### travis ci integration 
 [![Build Status](https://app.travis-ci.com/hkh7897/Workshop2.svg?branch=master)](https://app.travis-ci.com/hkh7897/Workshop2)
 
 ____ 
@@ -97,11 +97,13 @@ ____
 ### Releases
  first release  <br>
 The first release with tag V0.0.0 is created with the same code we have run it.
-_______________________________________________________________________________
+![in obunto](p5.png)<br><br>
+_____________________________________________________________________________
 second release  <br>
 update the GUI <br>
-![in obunto](p5.png)<br><br>
-The second release with tag V0.1.0 is created with the new code i update the GUI to have tow additional feature. <br>
+
+The second release with tag V0.1.0 is created with the new code i update the GUI to have tow additional feature. <br><br>
+
 1- clear button to clear the entered text and let the user able to change/update <br>
 the text before sending it the server.<br>
 ![before press clear](p%201.png)<br><br>
