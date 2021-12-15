@@ -95,8 +95,21 @@ i modify the package.json file in repository by exchange this part.<br>
 ____
 
 ### Releases
-The first release with tag V0.0.0 is created with the same code we have run it. An additional release will be in task2.
+ first release 
+The first release with tag V0.0.0 is created with the same code we have run it.
+_______________________________________________________________________________
+second release 
+update the GUI
+(p 5.png)<br><br>
+The second release with tag V0.1.0 is created with the new code i update the GUI to have tow additional feature.
+1- clear button to clear the entered text and let the user able to change/update
+the text before sending it the server.
+(p 1.png)<br><br>
+(p 2.png)<br><br>
 
+2- Submit button shall be responsible to wrap the text and send it to the server 
+(p 3.png)<br><br>
+(p 4.png)<br><br>
 ---
 
 
